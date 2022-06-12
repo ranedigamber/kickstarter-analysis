@@ -1,4 +1,3 @@
-# kickstarter-analysis
-##Performing analysis of Kickstarter data to uncover trends
-###This will help Louise find out inventive ways to spend her hard earned money
-*Need to let Louise know that her first kickstarter will not reach the pledged goals
+# An indepth analysis of some awesome kickstarter campaigns 
+This analyis will definately help Louise to save her hard earned money
+![image_name](path/to/image_name.png)
