@@ -17,3 +17,18 @@ For the second analysis, my only complain would be typing the Goals column. I am
 
 ## Result
 
+### Theater Outcome Based on Launch Date
+
+The two conclusions that can be drawn from this analyis are;
+1. Months May-July are most favorable to start a crowdfunding project. The success to fail ratio for these three months are quite similar (65%+/-2) and eventhough May would look the better month June would be not a distant second choice.
+2. Setting up a crowdfunding project should be avoided in the month of December as there's a equal chance that it may fail. 
+
+### Outcome Based on Goals
+
+The clear conclusion here is not to set a crowdfunding goal between $45,000-$49,999 as it has a 100% chance of failure. 
+
+## Limitation
+
+1. One limitation is that this data is not current and relies on information collected 5 year back. To get a more realistic picture data generate over the past 10 years should be considered.
+2. Second limitation for Louise would be that most of the 
+
