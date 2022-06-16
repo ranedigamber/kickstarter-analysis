@@ -29,5 +29,5 @@ The clear conclusion here is not to set a crowdfunding goal between $45,000-$49,
 
 ## Limitation
 
-1. One limitation is that this data is not current and relies on information collected 5 year back. To get a more realistic picture data generate over the past 10 years should be considered.
+1. One limitation is that this data is not current and relies on information collected between 2010-2017. To get a more realistic picture data generate from 2015-current should be considered.
 
